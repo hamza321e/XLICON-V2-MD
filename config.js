@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923417680053', 'HAMZA', true], 
+  ['923229390827', 'HAMZA', true], 
   ['923207614149', 'HAMZA 2', true],
   
   
@@ -57,11 +57,11 @@ global.premium = 'true'
 global.packname = 'HAMZA TEAM' 
 global.author = '@HAMZA-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://chat.whatsapp.com/LiJWEGNwXzO62CmHf4n0Um\n' 
-global.dygp = 'https://chat.whatsapp.com/LiJWEGNwXzO62CmHf4n0Um'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z\n' 
+global.dygp = 'https://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.fgyt = 'https://www.youtube.com/@mrdevelopershahzada'
+global.fgpyp = 'https://www.youtube.com/@mrdevelopershahzada'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
